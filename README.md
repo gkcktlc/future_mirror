@@ -1,13 +1,35 @@
-# Future Mirror AI 🪞
-This app allows you to describe or speak your imagination,
-and see what it might look like in 2045 — visualized through a magical mirror.
+# 🪞 Future Mirror AI
 
-## Features
-- Text or voice input
-- Whisper for speech-to-text
-- Stable Diffusion for image generation
-- Gradio UI with mirror frame overlay
+Future Mirror AI is an interactive application that allows users to generate futuristic images from simple text or voice prompts. It simulates the experience of looking into a "mirror of the future."
 
-## Run Instructions
+## 🔍 Features
+- GPT-2 powered prompt expansion
+- Stable Diffusion v1.4 for image generation
+- Gradio-based web interface
+- Voice input support via Whisper (Colab only)
+- CSS-enhanced mirror-themed visual output
 
-Developed by Gökçe Kutluca.
+## 🌐 Demo Links
+- 🔗 Permanent Hugging Face Demo: [future-mirror-ai](https://huggingface.co/spaces/gkcnaz/mirror)
+- 🔗 Temporary Voice-Enabled Demo: [gradio.live link](https://49555173e3120e7bc2.gradio.live)
+
+## ⚙️ Technologies Used
+- Python 3.10+
+- Hugging Face Transformers, Diffusers
+- OpenAI Whisper
+- Gradio
+- Google Colab
+
+## 🚧 Limitations
+- Voice input not available on Hugging Face Spaces (available via Colab)
+- Some image generations may lack expected detail
+- Performance is limited on CPU-only Spaces
+
+## 📂 Repository
+This repository contains:
+- `app.py` — Main application script
+- `requirements.txt` — Dependency list
+- `output.png` — Example image
+
+## 📜 Author
+Gökçe Naz Kutluca · May 2025
