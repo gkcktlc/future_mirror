@@ -1,0 +1,7 @@
+gradio
+torch
+diffusers
+transformers
+accelerate
+whisper
+ffmpeg-python
