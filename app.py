@@ -1,6 +1,3 @@
-# Your full Gradio project code goes here
-# paste everything from `import gradio as gr` to demo.launch(share=True)
-
 import gradio as gr
 from diffusers import StableDiffusionPipeline
 import torch
@@ -124,3 +121,8 @@ with open("README.md", "w") as f:
 
 # zıp 
 !zip -r future-mirror-ai.zip app.py requirements.txt README.md mirror_frame_ready.png
+
+
+
+
+demo.launch(share=True)
