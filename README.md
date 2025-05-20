@@ -11,7 +11,7 @@ Future Mirror AI is an interactive application that allows users to generate fut
 
 ## 🌐 Demo Links
 - 🔗 Permanent Hugging Face Demo: [future-mirror-ai](https://huggingface.co/spaces/gkcnaz/mirror)
-- 🔗 Temporary Voice-Enabled Demo: [gradio.live link](https://cb86830222fd15e07d.gradio.live)
+- 🔗 Temporary Voice-Enabled Demo: [gradio.live link](https://5daaf7369d97321834.gradio.live)
 
 ## ⚙️ Technologies Used
 - Python 3.10+
